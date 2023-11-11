@@ -6,4 +6,4 @@
 - 📫 How to reach me: https://www.facebook.com/profile.php?id=100011056752898
 - ⚡ Fun fact: level of immaturity
 
-![rick-and-morty-driving](https://github.com/Nhat-Kha/Nhat-Kha/assets/110881986/a91e9579-b8e8-4db2-8442-17a18f5345b8)
+![Uploading rick-and-morty-driving.gif…]()
