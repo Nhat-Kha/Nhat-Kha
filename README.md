@@ -5,5 +5,6 @@
 - 🤔 I’m looking for help with NodeJS, ReactJS
 - 📫 How to reach me: https://www.facebook.com/profile.php?id=100011056752898
 - ⚡ Fun fact: level of immaturity
+  
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/OVszfHuQBEYAAAAC/rick-and-morty-driving.gif"/>
 
-https://media.tenor.com/OVszfHuQBEYAAAAC/rick-and-morty-driving.gif
