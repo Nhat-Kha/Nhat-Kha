@@ -6,4 +6,5 @@
 - 📫 How to reach me: https://www.facebook.com/profile.php?id=100011056752898
 - ⚡ Fun fact: level of immaturity
 
-![Uploading rick-and-morty-driving.gif…]()
+[Add GIFs to your GitHub Profile README
+](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Frick-and-morty-driving-cool-swag-suave-gif-11387082&psig=AOvVaw3xurkYaqWVKj7CMA4kGZx-&ust=1699802772314000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjbrPSgvIIDFQAAAAAdAAAAABAn)https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Frick-and-morty-driving-cool-swag-suave-gif-11387082&psig=AOvVaw3xurkYaqWVKj7CMA4kGZx-&ust=1699802772314000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjbrPSgvIIDFQAAAAAdAAAAABAn
