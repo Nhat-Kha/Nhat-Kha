@@ -15,6 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/KhaNguyen020103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khanguyen" height="30" width="40" /></a>
+<a href="https://app.daily.dev/rickynguyen" target="blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--KCRN0Wuf--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/356/ceb8dc0f-a77b-4f89-84da-52216a4286e1.png" alt="khanguyen" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100011056752898" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kha nguyễn" height="30" width="40" /></a>
 <a href="https://instagram.com/khanguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khanguyen" height="30" width="40" /></a>
 </p>
