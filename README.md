@@ -8,6 +8,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhat-kha&label=Profile%20views&color=0e75b6&style=flat" alt="nhat-kha" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/KhaNguyen020103" target="blank"><img src="https://img.shields.io/twitter/follow/khanguyen?logo=twitter&style=for-the-badge" alt="khanguyen" /></a> </p>
+<p align="left"> <a href="https://www.facebook.com/profile.php?id=100011056752898" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="khanguyen" /></a> </p>
 
 - ⚡ Fun fact **i think my level write code of immaturity**
 - 👨‍💻 **All of my projects are available at here**
